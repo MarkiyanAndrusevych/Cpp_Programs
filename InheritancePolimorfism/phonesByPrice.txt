@@ -1,0 +1,11 @@
+Name: 3111 Brand: Motorola Price: 785.80 Radius: 2 AnsweringMachine: true
+Name: 3441 Brand: Motorla Price: 120.80 Colour: White Memory: 16
+Name: 13 Brand: Motorola Price: 345.80 Radius: 7 AnsweringMachine: false
+Name: 14 Brand: IPhone Price: 10.10 Colour: Black Memory: 512
+Name: X Brand: IPhone Price: 5.10 Radius: 10 AnsweringMachine: false
+Name: 13 Brand: IPhone Price: 7.70 Radius: 6 AnsweringMachine: true
+Total sum: 1275.3
+Radio phones with  answering machine: 
+Name: 3111 Brand: Motorola Price: 785.80 Radius: 2 AnsweringMachine: true 
+Name: 13 Brand: IPhone Price: 7.70 Radius: 6 AnsweringMachine: true 
+Total phones with  answering machine: 2

@@ -1,0 +1,3 @@
+Name: 14 Brand: IPhone Price: 10.10 Colour: Black Memory: 512
+Name: X Brand: IPhone Price: 5.10 Radius: 10 AnsweringMachine: false
+Name: 13 Brand: IPhone Price: 7.70 Radius: 6 AnsweringMachine: true

@@ -1,0 +1,3 @@
+Name: 3111 Brand: Motorola Price: 785.80 Radius: 2 AnsweringMachine: true
+Name: 3441 Brand: Motorla Price: 120.80 Colour: White Memory: 16
+Name: 13 Brand: Motorola Price: 345.80 Radius: 7 AnsweringMachine: false
