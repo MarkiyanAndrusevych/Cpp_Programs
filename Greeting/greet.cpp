@@ -27,12 +27,9 @@ using namespace std;
 }
     void PrintGreeting(string name, string(*language)(string)){
          string g = language(name);
-        ofstream g1("/Users/markiyanandrusevych/Documents/maa_ua/semester 2/Greeting/greetings.txt");
+        ofstream g1("/Users/markiyanandrusevych/Documents/maa_ua/semester 2/Greeting/greetings.txt");//Вивід в файл
         g1 << g<<"; ";
      }
-
-
-
 int main() {
          bool tak = true;
     while (tak) {
