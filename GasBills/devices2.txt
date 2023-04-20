@@ -1,0 +1,1 @@
+{gas/Adam/0.000000/20}; {gas/Markiyan/11.000000/14}; {gas/Martin/80.800000/15}; {gas/Andriy/90.200000/1000}; {gas/Sonia/0.000000/120}; 
