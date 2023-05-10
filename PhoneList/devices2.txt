@@ -1,0 +1,4 @@
+{Ivan/Odesa/380504568/3806696};
+ {Marik/Lviv/38066486/0}; {Nastya/Lviv/380503/0};
+ {Natalia/Uzhorod/38066410/0}; {Robert/Mariupol/380876/0};
+ {Robert/Rivne/3805576/0};
